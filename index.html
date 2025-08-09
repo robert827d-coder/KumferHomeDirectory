@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kumfer.me - Trusted Local Services Directory</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app">
+        <!-- Header Section -->
+        <header class="header">
+            <div class="container">
+                <div class="header__branding">
+                    <h1 class="header__title">Kumfer.me</h1>
+                    <div class="header__contact">
+                        <p>Michael Kumfer | EXP Realty | 
+                            <a href="mailto:michaelkumfer@exprealty.com">michaelkumfer@exprealty.com</a> | 
+                            <a href="tel:+12603541216">(260) 354-1216</a>
+                        </p>
+                    </div>
+                    <p class="header__subtitle">Trusted Local Services Directory - Huntertown & Fort Wayne</p>
+                </div>
+            </div>
+        </header>
+
+        <!-- Search and Filter Controls -->
+        <section class="controls">
+            <div class="container">
+                <div class="controls__wrapper">
+                    <!-- Search Bar -->
+                    <div class="search-container">
+                        <input 
+                            type="text" 
+                            id="searchInput" 
+                            class="form-control search-input" 
+                            placeholder="Search services, companies, or specialties..."
+                        >
+                    </div>
+
+                    <!-- Filter and Sort Controls -->
+                    <div class="filter-controls">
+                        <select id="categoryFilter" class="form-control">
+                            <option value="">All Categories</option>
+                        </select>
+
+                        <select id="sortSelect" class="form-control">
+                            <option value="name">Name (A-Z)</option>
+                            <option value="rating">Rating (High to Low)</option>
+                            <option value="category">Category</option>
+                        </select>
+
+                        <button id="clearFilters" class="btn btn--outline">Clear Filters</button>
+                    </div>
+                </div>
+
+                <!-- Results Counter -->
+                <div class="results-info">
+                    <p id="resultsCounter" class="results-counter">Loading providers...</p>
+                    <div class="status-indicators">
+                        <span id="loadingStatus" class="status status--info">Loading...</span>
+                        <span id="lastUpdated" class="last-updated"></span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Provider Cards -->
+        <main class="main">
+            <div class="container">
+                <div id="providersGrid" class="providers-grid">
+                    <!-- Provider cards will be inserted here -->
+                </div>
+
+                <!-- Empty State -->
+                <div id="emptyState" class="empty-state hidden">
+                    <h3>No providers found</h3>
+                    <p>Try adjusting your search or filter criteria.</p>
+                </div>
+
+                <!-- Error State -->
+                <div id="errorState" class="error-state hidden">
+                    <h3>Unable to load providers</h3>
+                    <p>Please check your connection and try refreshing the page.</p>
+                    <button id="retryButton" class="btn btn--primary">Retry</button>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <div class="footer__content">
+                    <div class="footer__info">
+                        <p id="footerLastUpdated" class="footer__updated">Last updated: Never</p>
+                        <button id="manualRefresh" class="btn btn--secondary btn--sm">
+                            <span id="refreshIcon">↻</span> Refresh
+                        </button>
+                    </div>
+                    <div class="footer__actions">
+                        <button id="editInstructions" class="btn btn--outline btn--sm">Edit Directory</button>
+                        <p class="footer__powered">Powered by Kumfer.me</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Admin Modal -->
+    <div id="adminModal" class="modal hidden">
+        <div class="modal__backdrop"></div>
+        <div class="modal__content">
+            <div class="modal__header">
+                <h2>Edit Service Directory</h2>
+                <button id="closeModal" class="modal__close">&times;</button>
+            </div>
+            <div class="modal__body">
+                <h3>Instructions for Editing</h3>
+                <ol>
+                    <li>Click the link below to edit the CSV file directly on GitHub</li>
+                    <li>Make your changes to the data (add, edit, or remove providers)</li>
+                    <li>Scroll down and commit your changes with a descriptive message</li>
+                    <li>Changes will sync automatically within 5 minutes</li>
+                </ol>
+                
+                <div class="modal__actions">
+                    <a 
+                        href="https://github.com/your-repo/service-directory/edit/main/providers.csv" 
+                        target="_blank" 
+                        class="btn btn--primary"
+                    >
+                        Edit CSV on GitHub
+                    </a>
+                </div>
+
+                <div class="modal__help">
+                    <h4>Need Help?</h4>
+                    <p>Contact technical support: <a href="mailto:michaelkumfer@exprealty.com">michaelkumfer@exprealty.com</a></p>
+                    <p>Data structure: Company, Contact, Email, Phone, Location, Category, Specialty, Service Area, Testimonial, Rating</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
