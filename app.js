@@ -131,7 +131,7 @@ class ServiceDirectory {
         
         try {
             console.log('Loading providers...');
-            const response = await fetch('https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/4996272993aab20302b4aa195fc6c65f/35b53282-f6c2-4d08-bb54-7def9ec9d84a/4f240bb5.json');
+           const response = await fetch('./providers_clean.json');
             
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
