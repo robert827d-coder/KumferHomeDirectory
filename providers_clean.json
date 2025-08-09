@@ -8,7 +8,7 @@
     "Category": "Home Services",
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
+    "Testimonial": "“Professional, punctual and good work… The communication has been awesome.” ",
     "Rating": 4
   },
   {
@@ -20,8 +20,8 @@
     "Category": "Mortgage Lender",
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
-    "Testimonial": "Personal Favorite",
-    "Rating": 5
+    "Testimonial": "Highly rated",
+    "Rating": 4
   },
   {
     "Company": "Aardvark Home Inspectors, Inc.",
@@ -30,7 +30,7 @@
     "number": "",
     "Main Location": "46818",
     "Category": "Home Inspector",
-    "Specialty": "",
+    "Specialty": "General Inspections",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "Personal Favorite",
     "Rating": 5
@@ -42,7 +42,7 @@
     "number": "(260) 246-1687",
     "Main Location": "46835",
     "Category": "Title Company",
-    "Specialty": "",
+    "Specialty": "Senior Account Manager",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
     "Rating": 4
@@ -177,7 +177,7 @@
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
-    "Rating": 3
+    "Rating": 4
   },
   {
     "Company": "Diamond Residential Mortgage Corp.",
@@ -189,7 +189,7 @@
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
-    "Rating": 3
+    "Rating": 4
   },
   {
     "Company": "Ruoff Mortgage",
@@ -201,7 +201,7 @@
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
-    "Rating": 3
+    "Rating": 4
   },
   {
     "Company": "Aardvark Home Inspectors, Inc.",
@@ -213,7 +213,7 @@
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
-    "Rating": 3
+    "Rating": 5
   },
   {
     "Company": "Diamond Residential Mortgage Corp.",
@@ -237,7 +237,7 @@
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
-    "Rating": 3
+    "Rating": 4
   },
   {
     "Company": "Ruoff Mortgage",
@@ -273,7 +273,7 @@
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
-    "Rating": 3
+    "Rating": 4
   },
   {
     "Company": "Three Rivers Federal Credit Union",
@@ -381,7 +381,7 @@
     "Specialty": "Five national underwriters, 300+ years experience",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "More than title insurance - it's title ASSURANCE",
-    "Rating": 4
+    "Rating": 3
   },
   {
     "Company": "MJM Mechanical",
@@ -393,7 +393,7 @@
     "Specialty": "24/7 emergency service, residential & commercial",
     "Service_Area": "Fort Wayne and surrounding areas",
     "Testimonial": "Licensed plumbers ready to help with any plumbing need",
-    "Rating": 4
+    "Rating": 3
   },
   {
     "Company": "Mr. Rooter Plumbing Fort Wayne",
@@ -417,7 +417,7 @@
     "Specialty": "24/7 emergency service, repiping specialists",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "All plumbing services under one roof",
-    "Rating": 4
+    "Rating": 2
   },
   {
     "Company": "North Side Plumbing & Heating",
@@ -453,7 +453,7 @@
     "Specialty": "40+ years experience, same day service",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "Exceptional service with neighborly care",
-    "Rating": 4
+    "Rating": 3
   },
   {
     "Company": "Old Fort Roofing",
@@ -525,7 +525,7 @@
     "Specialty": "Custom maintenance, landscape design",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "Caring for your lawn as if it was our own",
-    "Rating": 4
+    "Rating": 3
   },
   {
     "Company": "Diamond Homescapes",
@@ -557,7 +557,7 @@
     "email": "info@emsclean.com",
     "number": "(260) 637-9414",
     "Main Location": "46748",
-    "Category": "Environmental Services",
+    "Category": "Home Services",
     "Specialty": "Mold, asbestos, lead removal since 1990",
     "Service_Area": "Northeast Indiana",
     "Testimonial": "Cost-effective environmental solutions since 1990",
@@ -645,7 +645,7 @@
     "Specialty": "one-stop-shop approach for setting up various services",
     "Service_Area": "Clients Only",
     "Testimonial": "Ease the moving process by offering a complimentary concierge service that assists clients with setting up various utilities and home services.",
-    "Rating": 4
+    "Rating": 5
   },
   {
     "Company": "J&Z Lawn-care and Landscaping",
