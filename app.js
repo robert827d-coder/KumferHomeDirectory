@@ -543,7 +543,21 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('DOM loaded, initializing Service Directory...');
     window.serviceDirectory = new ServiceDirectory();
 });
+const editBtn = document.getElementById('editLink');
+  const SECRET = '260.sneaks';  //
 
+  if (editBtn) {
+    editBtn.addEventListener('click', () => {
+      const attempt = prompt('Enter admin password:');
+      if (attempt === SECRET) {
+        // Correct password: open GitHub editor
+        window.open(editBtn.dataset.href, '_blank');
+      } else {
+        // Wrong password: deny access
+        alert('Incorrect password—access denied.');
+      }
+    });
+  }
 // Cleanup on page unload
 window.addEventListener('beforeunload', () => {
     if (window.serviceDirectory) {
