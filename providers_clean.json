@@ -104,7 +104,7 @@
     "Category": "Home Services",
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
+    "Testimonial": "Water, Radon & Mold Testing",
     "Rating": 4
   },
   {
@@ -156,16 +156,16 @@
     "Rating": 4
   },
   {
-    "Company": "Ruoff Mortgage",
-    "Contact": "Gayle Passovoy",
-    "email": "gayle.passovoy@ruoff.com",
-    "number": "260-409-4093",
-    "Main Location": "46825",
-    "Category": "Banking",
-    "Specialty": "",
-    "Service_Area": "Fort Wayne area",
+    "Company": "Approved Mortgagee",
+    "Contact": "Adam Quaintance",
+    "email": "aquaintance@approvedmortgage.com",
+    "number": "419-487-3040",
+    "Main Location": "46748",
+    "Category": "Mortgage Lender",
+    "Specialty": "Specialty Mortgage Options",
+    "Service_Area": "Fort Wayne and Surrounding",
     "Testimonial": "",
-    "Rating": 4
+    "Rating": 
   },
   {
     "Company": "Aardvark Home Inspectors, Inc.",
@@ -178,18 +178,6 @@
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
     "Rating": 5
-  },
-  {
-    "Company": "Diamond Residential Mortgage Corp.",
-    "Contact": "Cheryl Richey",
-    "email": "cheryl.richey@drmconline.com",
-    "number": "(260) 341-0301",
-    "Main Location": "46825",
-    "Category": "Banking",
-    "Specialty": "",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
-    "Rating": 3
   },
   {
     "Company": "Farmers and Merchants State Bank",
@@ -209,11 +197,11 @@
     "email": "mike.ruiz@ruoff.com",
     "number": "260-402-4610",
     "Main Location": "46835",
-    "Category": "Banking",
+    "Category": "Mortgage Lender",
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
-    "Rating": 3
+    "Rating": 4
   },
   {
     "Company": "Three Rivers Federal Credit Union",
@@ -634,6 +622,6 @@
     "Specialty": "Window Cleaning & Pressure Washing",
     "Service_Area": "Fort Wayne & 50 Mile Radius",
     "Testimonial": "5-star rating- Excellent job! quick & effiecient! Great communication!",
-    "Rating": 5
+    "Rating": 4
   }
 ]
