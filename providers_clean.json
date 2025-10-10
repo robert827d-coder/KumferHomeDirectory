@@ -84,16 +84,16 @@
     "Rating": 4
   },
   {
-    "Company": "Aardvark Home Inspectors, Inc.",
-    "Contact": "Brad Burkhart",
-    "email": "customercare@aardvarkfortwayne.com",
-    "number": "(260) 494-8161",
-    "Main Location": "46845",
+    "Company": "Brick by Brick Inspections",
+    "Contact": "Michael Foust",
+    "email": "brickbybrickfw@gmail.com",
+    "number": "707-527-2277",
+    "Main Location": "46825",
     "Category": "Home Inspector",
-    "Specialty": "",
+    "Specialty": "100 day guarantee complete inspections",
     "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
-    "Rating": 4
+    "Testimonial": "Very helpful and informative! Personally showed us what isssues to look out for and explained how it could be fixed",
+    "Rating": 5
   },
   {
     "Company": "Your Environmental Services- LLC",
@@ -168,25 +168,13 @@
     "Rating": 4
   },
   {
-    "Company": "Aardvark Home Inspectors, Inc.",
-    "Contact": "Todd Patterson",
-    "email": "customercare@aardvarkfortwayne.com",
-    "number": "260-471-2800",
+    "Company": "Union Home Mortgage",
+    "Contact": "Luke Feliciano",
+    "email": "lfeliciano@uhm.com",
+    "number": "201-394-8763",
     "Main Location": "46845",
-    "Category": "Home Inspector",
-    "Specialty": "",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
-    "Rating": 5
-  },
-  {
-    "Company": "Farmers and Merchants State Bank",
-    "Contact": "Casey Robbins",
-    "email": "crobbins@fm.bank",
-    "number": "260-296-0562",
-    "Main Location": "46804",
-    "Category": "Banking",
-    "Specialty": "",
+    "Category": "Mortgage Lender",
+    "Specialty": "Residential and Commercial Lending",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "",
     "Rating": 4
@@ -212,7 +200,7 @@
     "Category": "Mortgage Lender",
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
-    "Testimonial": "Personal Favorite",
+    "Testimonial": "Great communication and very digestable information. Always available",
     "Rating": 5
   },
   {
@@ -224,20 +212,8 @@
     "Category": "Mortgage Lender",
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
+    "Testimonial": "Active on social media. Trustworthy",
     "Rating": 4
-  },
-  {
-    "Company": "Three Rivers Federal Credit Union",
-    "Contact": "Patrick Ward",
-    "email": "pward@trfcu.org",
-    "number": "260-615-6304",
-    "Main Location": "46825",
-    "Category": "Banking",
-    "Specialty": "",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
-    "Rating": 3
   },
   {
     "Company": "National Property Inspections",
@@ -249,18 +225,6 @@
     "Specialty": "Certified Professional Inspector, Mold & WDI certified",
     "Service_Area": "Fort Wayne, Leo, Auburn, New Haven, Huntertown, Churubusco",
     "Testimonial": "Top-rated home inspections with comprehensive digital reports",
-    "Rating": 4
-  },
-  {
-    "Company": "Apex Inspect LLC",
-    "Contact": "Tyler Battershell",
-    "email": "info@apexinspectllc.com",
-    "number": "(260) 888-5127",
-    "Main Location": "46825",
-    "Category": "Home Inspector",
-    "Specialty": "CHI & PHI Certified, InterNACHI member",
-    "Service_Area": "Fort Wayne and surrounding areas",
-    "Testimonial": "Professional home inspection minimizing your risk",
     "Rating": 4
   },
   {
@@ -301,7 +265,7 @@
   },
   {
     "Company": "Koala Insulation",
-    "Contact": "Randy E",
+    "Contact": "Randy Eaton",
     "email": "reaton@koalainsulation.com",
     "number": "(260) 582-2240",
     "Main Location": "Fort Wayne",
@@ -322,18 +286,6 @@
     "Service_Area": "Entire Indiana state",
     "Testimonial": "Building legacies through legendary lending experience",
     "Rating": 4
-  },
-  {
-    "Company": "Titan Title Services",
-    "Contact": "Title Team",
-    "email": "info@titantitle.us",
-    "number": "(260) 467-1333",
-    "Main Location": "46802",
-    "Category": "Title Company",
-    "Specialty": "Five national underwriters, 300+ years experience",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "More than title insurance - it's title ASSURANCE",
-    "Rating": 3
   },
   {
     "Company": "MJM Mechanical",
@@ -358,18 +310,6 @@
     "Service_Area": "Fort Wayne and surrounding areas",
     "Testimonial": "Highly-rated local pros with latest techniques",
     "Rating": 4
-  },
-  {
-    "Company": "Korte Does It All",
-    "Contact": "Service Team",
-    "email": "info@kortedoesitall.com",
-    "number": "(260) 555-0125",
-    "Main Location": "46825",
-    "Category": "Plumbing",
-    "Specialty": "24/7 emergency service, repiping specialists",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "All plumbing services under one roof",
-    "Rating": 2
   },
   {
     "Company": "North Side Plumbing & Heating",
@@ -420,7 +360,6 @@
     "Rating": 4
   },
   {
- 
     "Company": "Bone Dry Roofing",
     "Contact": "Service Team",
     "email": "info@bonedry.com",
@@ -541,52 +480,40 @@
     "Rating": 4
   },
   {
-    "Company": "Rehab Financial Group (RFG)",
-    "Contact": "",
-    "email": "info@rehabfinancial.com",
-    "number": "(610) 890-8512",
-    "Main Location": "46825",
-    "Category": "Financial Services",
-    "Specialty": "Hard Money Lender & Creative Financing",
-    "Service_Area": "Fort Wayne",
-    "Testimonial": "",
-    "Rating": 3
-  },
-  {
     "Company": "Community State Bank",
-    "Contact": "Kyle Newman | VP Of Commercial Lending at Community State Bank",
-    "email": "",
-    "number": "(260) 433-4916",
-    "Main Location": "Avilla",
-    "Category": "Financial Services",
-    "Specialty": "Business Mortgage Lending",
+    "Contact": "Leo Phillips",
+    "email": "leop@csbemail.com",
+    "number": "(260) 402-4284",
+    "Main Location": "46845",
+    "Category": "Mortgage Lending",
+    "Specialty": "Business- Portfolio Loans | Bridge Loans | No Score Loans. Residential- FHA | VA | USDA | Conventional | Local Grant Program Knowledge",
     "Service_Area": "North East Indiana",
     "Testimonial": "Works well with investors",
     "Rating": 5
   },
   {
-    "Company": "Clever Offers",
-    "Contact": "",
+    "Company": "Cash Offer Investor",
+    "Contact": "Will Stanley",
     "email": "",
-    "number": "(833) 225-3837",
-    "Main Location": "46825",
-    "Category": "Banking",
-    "Specialty": "bridge loans, creative finance options, and alternative funding solutions.",
-    "Service_Area": "Nationwide",
+    "number": "260-633-6365",
+    "Main Location": "46806",
+    "Category": "Financial Services",
+    "Specialty": "Fair all-cash purchase for quick closings",
+    "Service_Area": "Fort Wayne & 1 Hour Radius",
     "Testimonial": "",
-    "Rating": 3
+    "Rating": 4
   },
   {
-    "Company": "Utility connect",
-    "Contact": "Michael Kumfer",
-    "email": "Michael@kumfer.me",
+    "Company": "Handy Man Dan",
+    "Contact": "Dan Ringenberg",
+    "email": "dan@handymandan.biz",
     "number": "(260) 354-1216",
     "Main Location": "46748",
     "Category": "Home Services",
-    "Specialty": "one-stop-shop approach for setting up various services",
-    "Service_Area": "Clients Only",
-    "Testimonial": "Ease the moving process by offering a complimentary concierge service that assists clients with setting up various utilities and home services.",
-    "Rating": 5
+    "Specialty": "Versatile range of work- Painting | Woodworking | Installations",
+    "Service_Area": "Allen County",
+    "Testimonial": "They did a great job remodeling my sunroom",
+    "Rating": 4
   },
   {
     "Company": "J&Z Lawn-care and Landscaping",
@@ -608,8 +535,8 @@
     "Main Location": "46814",
     "Category": "HVAC",
     "Specialty": " Heating & Air Conditioning Specialist",
-    "Service_Area": " Fort Wayne",
-    "Testimonial": " \"5-star rating for reliable- He's Worked on multiple friend's and family! I always reccomend. professional and fair.\"",
+    "Service_Area": "Fort Wayne",
+    "Testimonial": "5-star rating! He's Worked on multiple homes! I always reccomend Todd for being professional and fair.",
     "Rating": 5
   },
   {
@@ -621,7 +548,7 @@
     "Category": "Home Services",
     "Specialty": "Window Cleaning & Pressure Washing",
     "Service_Area": "Fort Wayne & 50 Mile Radius",
-    "Testimonial": "5-star rating- Excellent job! quick & effiecient! Great communication!",
-    "Rating": 4
+    "Testimonial": "5-star rating | Excellent job! quick & effiecient! Great communication!",
+    "Rating": 5
   }
 ]
