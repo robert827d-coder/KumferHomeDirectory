@@ -276,18 +276,6 @@
     "Rating": 5
   },
   {
-    "Company": "Thrive Mortgage FWI",
-    "Contact": "FWI Team",
-    "email": "info@thrivemortgage.com",
-    "number": "(260) 555-0123",
-    "Main Location": "46825",
-    "Category": "Financial Services",
-    "Specialty": "Legacy building, construction loans, refinancing",
-    "Service_Area": "Entire Indiana state",
-    "Testimonial": "Building legacies through legendary lending experience",
-    "Rating": 4
-  },
-  {
     "Company": "MJM Mechanical",
     "Contact": "Service Team",
     "email": "info@mjmfortwayne.com",
@@ -369,18 +357,6 @@
     "Specialty": "Full exterior services, ice melt systems",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "Comprehensive roofing and exterior solutions",
-    "Rating": 4
-  },
-  {
-    "Company": "Tecta America Fort Wayne",
-    "Contact": "Service Team",
-    "email": "info@fortwayneroofing.com",
-    "number": "(260) 422-9529",
-    "Main Location": "46802",
-    "Category": "Roofing",
-    "Specialty": "Commercial roofing, founded 1990",
-    "Service_Area": "Fort Wayne and surrounding region",
-    "Testimonial": "Leading commercial roofing contractor with quality focus",
     "Rating": 4
   },
   {
@@ -485,7 +461,7 @@
     "email": "leop@csbemail.com",
     "number": "(260) 402-4284",
     "Main Location": "46845",
-    "Category": "Mortgage Lending",
+    "Category": "Mortgage Lender",
     "Specialty": "Business- Portfolio Loans | Bridge Loans | No Score Loans. Residential- FHA | VA | USDA | Conventional | Local Grant Program Knowledge",
     "Service_Area": "North East Indiana",
     "Testimonial": "Works well with investors",
@@ -550,5 +526,5 @@
     "Service_Area": "Fort Wayne & 50 Mile Radius",
     "Testimonial": "5-star rating | Excellent job! quick & effiecient! Great communication!",
     "Rating": 5
-  }
-]
+  },
+ 
