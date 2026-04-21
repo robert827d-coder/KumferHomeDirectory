@@ -1,15 +1,15 @@
 [
   {
-    "Company": "Ace Handyman Services",
-    "Contact": "Joe Barendse",
-    "email": "ldorm@acehandymanservices.com",
-    "number": "574-385-9855",
+    "Company": "Pressler Electric",
+    "Contact": "Ben Pressler",
+    "email": "",
+    "number": "(260) 739-9590",
     "Main Location": "46804",
     "Category": "Home Services",
-    "Specialty": "",
+    "Specialty": "Electrical Repair & Installation",
     "Service_Area": "Fort Wayne area",
-    "Testimonial": "Professional, punctual and good work… The communication has been awesome.",
-    "Rating": 4
+    "Testimonial": "Professional, punctual and good work.",
+    "Rating": 5
   },
   {
     "Company": "VSI Home Lending",
@@ -36,18 +36,6 @@
     "Rating": 5
   },
   {
-    "Company": "Meridian Title Corporation",
-    "Contact": "Chris Alexander",
-    "email": "calexander@meridiantitle.com",
-    "number": "(260) 246-1687",
-    "Main Location": "46835",
-    "Category": "Title Company",
-    "Specialty": "Senior Account Manager",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
-    "Rating": 4
-  },
-  {
     "Company": "Better Organized Spaces Fort Wayne",
     "Contact": "Jason Spuller",
     "email": "jason@betterorgspaces.com",
@@ -72,18 +60,6 @@
     "Rating": 4
   },
   {
-    "Company": "Partners Title, LLC.",
-    "Contact": "Angie Buchs",
-    "email": "angieb@partnerstitle-in.com",
-    "number": "260-705-2903",
-    "Main Location": "46825",
-    "Category": "Title Company",
-    "Specialty": "",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
-    "Rating": 4
-  },
-  {
     "Company": "Brick by Brick Inspections",
     "Contact": "Michael Foust",
     "email": "brickbybrickfw@gmail.com",
@@ -101,22 +77,10 @@
     "email": "noah@yeslabsllc.com",
     "number": "260-458-4184",
     "Main Location": "46818",
-    "Category": "Home Services",
+    "Category": "Home Inspector",
     "Specialty": "",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "Water Radon & Mold Testing",
-    "Rating": 4
-  },
-  {
-    "Company": "Midwest America Federal Credit Union",
-    "Contact": "Tara Gillespie",
-    "email": "tgillespie@mwafcu.org",
-    "number": "260-209-2556",
-    "Main Location": "Off Jefferson Blvd",
-    "Category": "Banking",
-    "Specialty": "",
-    "Service_Area": "North East IN",
-    "Testimonial": "",
     "Rating": 4
   },
   {
@@ -142,18 +106,6 @@
     "Service_Area": "Fort Wayne area",
     "Testimonial": "Personal Favorite",
     "Rating": 5
-  },
-  {
-    "Company": "Farmers and Merchants State Bank",
-    "Contact": "Larry Lechel",
-    "email": "llechel@fm.bank",
-    "number": "260-348-7519",
-    "Main Location": "46818",
-    "Category": "Banking",
-    "Specialty": "",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "",
-    "Rating": 4
   },
   {
     "Company": "Approved Mortgagee",
@@ -204,64 +156,40 @@
     "Rating": 5
   },
   {
-    "Company": "Geneva Financial",
-    "Contact": "Moises Uribe",
-    "email": "muribe@genevafi.com",
-    "number": "(260) 415-4545",
-    "Main Location": "46825",
-    "Category": "Mortgage Lender",
-    "Specialty": "",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "Active on social media. Trustworthy",
-    "Rating": 4
-  },
-  {
-    "Company": "National Property Inspections",
-    "Contact": "Blake Evans",
-    "email": "info@npiweb.com",
-    "number": "(260) 705-9835",
+    "Company": "Independant Roofing Contractor",
+    "Contact": "Rick Collins",
+    "email": "",
+    "number": "(260) 645-0132",
     "Main Location": "46818",
     "Category": "Home Inspector",
-    "Specialty": "Certified Professional Inspector, Mold & WDI certified",
+    "Specialty": "Certified Professional Inspector. Used by Graber Roofing Company",
     "Service_Area": "Fort Wayne, Leo, Auburn, New Haven, Huntertown, Churubusco",
-    "Testimonial": "Top-rated home inspections with comprehensive digital reports",
+    "Testimonial": "Top-rated roof inspection",
     "Rating": 4
   },
   {
-    "Company": "A-Pro Home Inspection",
-    "Contact": "Joe Sunderman",
-    "email": "info@homeinspectionfortwaynein.com",
-    "number": "(260) 994-2776",
-    "Main Location": "46825",
-    "Category": "Home Inspector",
-    "Specialty": "500-point inspection, foundation level survey included",
-    "Service_Area": "Fort Wayne and surrounding communities",
-    "Testimonial": "Industry-leading inspections with comprehensive coverage",
-    "Rating": 4
-  },
-  {
-    "Company": "Summit City Home Inspection",
-    "Contact": "Kevin Bunch",
-    "email": "info@summitcityhome.com",
-    "number": "(260) 582-6039",
-    "Main Location": "46825",
-    "Category": "Home Inspector",
-    "Specialty": "Licensed and experienced inspections",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "Thorough and reliable home inspection services",
-    "Rating": 4
-  },
-  {
-    "Company": "KTL Performance Mortgage",
-    "Contact": "Performance Team",
-    "email": "info@performancemortgageone.com",
-    "number": "(260) 470-9999",
+    "Company": "Intteg Home Inspection",
+    "Contact": "Doug Brenneke",
+    "email": "doug@intteghomeinspection.com",
+    "number": "(260) 750-1115",
     "Main Location": "46805",
-    "Category": "Financial Services",
-    "Specialty": "Wholesale lending, quick funding, local expertise",
-    "Service_Area": "Fort Wayne and Northeast Indiana",
-    "Testimonial": "11+ years serving Fort Wayne with local expertise",
-    "Rating": 4
+    "Category": "Home Inspector",
+    "Specialty": "500-point inspection, over 1000 inspections completed",
+    "Service_Area": "Northern Indiana",
+    "Testimonial": "Go-to-guy. Quality Work",
+    "Rating": 5
+  },
+  {
+    "Company": "Structural Engineering Services",
+    "Contact": "Ken Hess",
+    "email": "khess@structuralengr.com",
+    "number": "(260) 582-6039",
+    "Main Location": "46845",
+    "Category": "Home Inspector",
+    "Specialty": "Structural Engineer",
+    "Service_Area": "Fort Wayne area",
+    "Testimonial": "Extremely Reliable & Top Rated",
+    "Rating": 5
   },
   {
     "Company": "Koala Insulation",
@@ -324,28 +252,16 @@
     "Rating": 4
   },
   {
-    "Company": "Summers Plumbing Heating & Cooling",
-    "Contact": "Service Team",
-    "email": "info@summersphc.com",
-    "number": "(260) 555-0126",
-    "Main Location": "46825",
-    "Category": "HVAC",
-    "Specialty": "40+ years experience, same day service",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "Exceptional service with neighborly care",
-    "Rating": 3
-  },
-  {
-    "Company": "Old Fort Roofing",
-    "Contact": "Scott",
-    "email": "scott@oldfortroofing.com",
-    "number": "(260) 486-9001",
+    "Company": "Steve's",
+    "Contact": "Contact Michael For Info",
+    "email": "",
+    "number": "",
     "Main Location": "46825",
     "Category": "Roofing",
-    "Specialty": "40+ years experience, Owens Corning Platinum Preferred",
-    "Service_Area": "Fort Wayne, Huntertown, New Haven, Auburn",
-    "Testimonial": "Second generation company with 35+ years roofing Fort Wayne",
-    "Rating": 4
+    "Specialty": "Quality Roof Replacement For A Great Value",
+    "Service_Area": "Northern Indiana",
+    "Testimonial": "400+ projects complete. Trusted Highly",
+    "Rating": 5
   },
   {
     "Company": "Bone Dry Roofing",
@@ -358,30 +274,6 @@
     "Service_Area": "Fort Wayne area",
     "Testimonial": "Comprehensive roofing and exterior solutions",
     "Rating": 4
-  },
-  {
-    "Company": "Leeper's Lawn Service",
-    "Contact": "Service Team",
-    "email": "info@leeperslawn.com",
-    "number": "(260) 747-1105",
-    "Main Location": "46825",
-    "Category": "Landscaping",
-    "Specialty": "Voted Fort Wayne's best lawn & landscape",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "Professional maintenance with personal attention you deserve",
-    "Rating": 4
-  },
-  {
-    "Company": "Blades of Glory Landscaping",
-    "Contact": "Service Team",
-    "email": "info@bladesofgloryftw.com",
-    "number": "(260) 348-0066",
-    "Main Location": "46825",
-    "Category": "Landscaping",
-    "Specialty": "Custom maintenance, landscape design",
-    "Service_Area": "Fort Wayne area",
-    "Testimonial": "Caring for your lawn as if it was our own",
-    "Rating": 3
   },
   {
     "Company": "Diamond Homescapes",
@@ -420,16 +312,16 @@
     "Rating": 4
   },
   {
-    "Company": "State Farm",
-    "Contact": "Chandra Snyder",
-    "email": "",
-    "number": "(260) 637-5521",
+    "Company": "Farmers Insurance",
+    "Contact": "Rob Glasper",
+    "email": "rglasper@farmersagent.com",
+    "number": "(260) 327-4100",
     "Main Location": "46748",
     "Category": "Home Services",
-    "Specialty": "Home Insurance",
+    "Specialty": "Home & Auto Insurance",
     "Service_Area": "Huntertown",
-    "Testimonial": "",
-    "Rating": 3
+    "Testimonial": "Lowered my debt-to-income ratio by beating my insurance quotes!",
+    "Rating": 5
   },
   {
     "Company": "Centurion Exteriors",
@@ -456,28 +348,16 @@
     "Rating": 5
   },
   {
-    "Company": "Cash Offer Investor",
-    "Contact": "Will Stanley",
+    "Company": "Hamiltons Handyman",
+    "Contact": "Tony Hamilton",
     "email": "",
-    "number": "260-633-6365",
-    "Main Location": "46806",
-    "Category": "Financial Services",
-    "Specialty": "Fair all-cash purchase for quick closings",
-    "Service_Area": "Fort Wayne & 1 Hour Radius",
-    "Testimonial": "",
-    "Rating": 4
-  },
-  {
-    "Company": "Handy Man Dan",
-    "Contact": "Dan Ringenberg",
-    "email": "dan@handymandan.biz",
-    "number": "(260) 354-1216",
+    "number": "(260) 205-2478",
     "Main Location": "46748",
     "Category": "Home Services",
-    "Specialty": "Versatile range of work- Painting | Woodworking | Installations",
+    "Specialty": "Versatile range of work- General contractor with licenced crew",
     "Service_Area": "Allen County",
-    "Testimonial": "They did a great job remodeling my sunroom",
-    "Rating": 4
+    "Testimonial": "They did a great job rehabing my fix & flip",
+    "Rating": 5
   },
   {
     "Company": "J&Z Lawn-care and Landscaping",
@@ -501,18 +381,6 @@
     "Specialty": " Heating & Air Conditioning Specialist",
     "Service_Area": "Fort Wayne",
     "Testimonial": "5-star rating! He's Worked on multiple homes! I always reccomend Todd for being professional and fair.",
-    "Rating": 5
-  },
-  {
-    "Company": "Flawless Glass",
-    "Contact": "Jordan Traxler",
-    "email": "Jordan.Traxler@flawlessglass.co",
-    "number": "(260) 221-8770",
-    "Main Location": "46818",
-    "Category": "Home Services",
-    "Specialty": "Window Cleaning & Pressure Washing",
-    "Service_Area": "Fort Wayne & 50 Mile Radius",
-    "Testimonial": "5-star rating | Excellent job! quick & effiecient! Great communication!",
     "Rating": 5
   }
 ]
