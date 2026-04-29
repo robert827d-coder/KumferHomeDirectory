@@ -5,7 +5,7 @@
     "email": "",
     "number": "(260) 739-9590",
     "Main Location": "46804",
-    "Category": "Home Services",
+    "Category": "Electrician",
     "Specialty": "Electrical Repair & Installation",
     "Service_Area": "Fort Wayne area",
     "Testimonial": "Professional, punctual and good work.",
@@ -48,16 +48,16 @@
     "Rating": 4
   },
   {
-    "Company": "Epic Radon Solutions",
-    "Contact": "Agent",
-    "email": "info@epicradon.com",
-    "number": "800-403-8460",
-    "Main Location": "South Michigan",
-    "Category": "Home Services",
-    "Specialty": "Radon Mitigation",
-    "Service_Area": "Northern Indiana/Southern Michigan",
-    "Testimonial": "Easy Quote, Good Deals, Great Warranty",
-    "Rating": 4
+    "Company": "Titus and Son's Electric",
+    "Contact": "Sam Titus",
+    "email": "titus.sonselectric@gmail.com",
+    "number": "(260) 336-4663",
+    "Main Location": "46714",
+    "Category": "Electrician",
+    "Specialty": "Residential & commercial electricl services. Including emergency calls",
+    "Service_Area": "Northern Indiana",
+    "Testimonial": "Licenced & insured with free easy quotes. Great communication from the first call to finishing the project.",
+    "Rating": 5
   },
   {
     "Company": "Brick by Brick Inspections",
